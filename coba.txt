@@ -1,7 +1,6 @@
 ini contoh pembuatan file di branch main ( master )
 ini baris kedua di buatnya di branch main
 baris ketiga di buat pada branch main
-yang ini line ke 4 di buat pada branch main
 menambahkan baris ke 5 setelah pembuatan file (posisi commit ke-2)
 menambahkan baris ke 6 setelah pembuatan file (posisi commit ke-3)
 menambahkan baris ke 7 setelah pembuatan file (posisi commit ke-4)
